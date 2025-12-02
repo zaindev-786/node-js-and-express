@@ -1,0 +1,13 @@
+"how to download node js"
+
+1.first download nodejs in google and install it.
+2.download and install vs code. 
+
+"how to run node file" 
+1.open terminal and type node and file  name for example:- "node index.js".
+
+"how to download node package"
+1.open terminal and type "npm init".
+
+"how to download express"
+1.open terminal and type "npm intall express --save".
